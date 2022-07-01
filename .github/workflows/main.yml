@@ -10,7 +10,6 @@ jobs:
         continue-on-error: true
         env:
           SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
-
 scanning:
     name: GitGuardian scan
     runs-on: ubuntu-latest
