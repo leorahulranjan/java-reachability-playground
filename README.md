@@ -39,3 +39,6 @@ to next java run.*
 
 ### Snyk UI
 ![Snyk UI Reachable Vulnerabilities](UI_reachable.png)
+
+### Gitgurdian 
+Reject once the secrets is mention
